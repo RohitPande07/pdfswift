@@ -1,0 +1,6 @@
+{
+  "name": "PDFSwift",
+  "description": "All-in-one PDF tools to convert, merge, split, compress, rotate, edit, and organize PDFs with on-device privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- White Paper Sheet with folded corner -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 L62,26 L74,38 L74,82 C74,84.2 72.2,86 70,86 L34,86 C31.8,86 30,84.2 30,82 L30,30 C30,27.8 31.8,26 34,26 Z" />
+    
+    <!-- Folded Corner Shadow/Flap -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M62,26 L62,38 L74,38 Z" />
+    
+    <!-- Vibrant Red PDF Banner / Badge across the lower half -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M27,52 L81,52 C82.1,52 83,52.9 83,54 L83,67 C83,68.1 82.1,69 81,69 L27,69 C25.9,69 25,68.1 25,67 L25,54 C25,52.9 25.9,52 27,52 Z" />
+    
+    <!-- Lightning Swift Symbol in gold/white inside document -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,33 L46,45 L52,45 L48,51 L58,41 L52,41 Z" />
+
+    <!-- "PDF" styling text bars / letters on red badge -->
+    <!-- P -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,56 L39,56 C40.1,56 41,56.7 41,57.7 L41,59.3 C41,60.3 40.1,61 39,61 L35.5,61 L35.5,65 L33,65 Z M35.5,58 L35.5,59.5 L38.5,59.5 C38.8,59.5 39,59.3 39,58.7 C39,58.2 38.8,58 38.5,58 Z" />
+
+    <!-- D -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,56 L49,56 C51.2,56 52.5,57.5 52.5,60.5 C52.5,63.5 51.2,65 49,65 L44,65 Z M46.5,58 L46.5,63 L48.8,63 C49.8,63 50.3,62.2 50.3,60.5 C50.3,58.8 49.8,58 48.8,58 Z" />
+
+    <!-- F -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M55.5,56 L62,56 L62,58 L58,58 L58,60 L61.5,60 L61.5,62 L58,62 L58,65 L55.5,65 Z" />
+
+    <!-- Swift speed streak -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M66,57 L75,57 L73,60 L67,60 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M68,62 L74,62 L72,64 L69,64 Z" />
+
+    <!-- Subtle document horizontal lines at bottom -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M35,74 L69,74 C69.5,74 70,74.5 70,75 C70,75.5 69.5,76 69,76 L35,76 C34.5,76 34,75.5 34,75 C34,74.5 34.5,74 35,74 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M35,78 L55,78 C55.5,78 56,78.5 56,79 C56,79.5 55.5,80 55,80 L35,80 C34.5,80 34,79.5 34,79 C34,78.5 34.5,78 35,78 Z" />
+</vector>
